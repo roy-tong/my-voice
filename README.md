@@ -1,3 +1,5 @@
+> **⚠️ 已迁移（2026-10-11）**：my-voice 的唯一正式源是 [agent-tool-center/skills/my-voice](https://github.com/roy-tong/agent-tool-center/tree/main/skills/my-voice)（第一方 skill 唯一存放点，含最新的 BP 叙事分支与风格校准）。本仓库是早期独立分发副本，内容已落后于工具中心版本，仅作留档（archived）。
+
 # my-voice
 
 个人默认表达优化 skill，用于 Claude Code / ZCode 等 agent（兼容 [Agent Skills](https://code.claude.com/docs/en/skills) 规范：目录 + SKILL.md + 按需加载的 references）。
